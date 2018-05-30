@@ -17,7 +17,7 @@ get_header();
 		</div>
 		<div>
             <a class="landing-page-button" href="/about">Lee mas sobre el proyecto</a>
-            <a class="landing-page-button" href="/primera-temporada">Ve la primera temporada</a>
+            <a class="landing-page-button" href="/s01">Ve la primera temporada</a>
         </div>
 	</div>
 </div>
